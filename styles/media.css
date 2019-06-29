@@ -1,0 +1,264 @@
+@media only screen and (max-width: 1200px){
+	.wrap{
+		width: 950px;
+	}
+}
+@media only screen and (max-width: 970px){
+	.wrap{
+		width: 770px;
+	}
+	h1 {
+    font-size: 36px;
+	}
+	.col-4x{
+		width: 50%;
+	}
+	.ctext {
+	    width: 350px;
+	}
+	.form-group input, .contact-form textarea  {
+		width: 700px;
+		float: none;
+		margin: 0 auto;
+	}
+	.form-group .input-left, .form-group .input-right{
+		float: none;
+		margin: 0 auto;
+		margin-bottom: 30px;
+	}
+	.contact-form textarea{
+		margin: 0 auto;
+		height: 130px;
+		margin-bottom: 30px;
+	}
+	.contact-form {
+		width: 100%;
+	}
+
+}
+@media only screen and (max-width: 800px){
+	.wrap{
+		width: 650px;
+	}
+	header>a>img{
+		max-width: 80%;
+	}
+	a.logo{
+	    margin-left: 10px;
+	}
+	
+	section {
+    	padding-top: 50px;
+	}
+	.menu li a{
+		font-size: 16px;
+	    padding: 0 10px;
+	    line-height: 45px;
+	}
+	.col-2x{
+		width: 100%;
+		padding-top: 28px;
+	}
+	h1{
+		font-size: 28px;
+		padding: 0 20px;
+	}
+	h2{
+		font-size: 28px;
+	}
+	h3{
+		font-size: 20px;
+	}
+	.bottom{
+		padding-bottom: 50px;
+		}
+	.btn {
+		font-size: 20px;
+		width: 250px;
+    	height: 60px;
+    	line-height: 60px;
+	}
+	.subtitle {
+		font-size: 25px;
+    	line-height: 30px;
+    	padding-bottom: 40px;
+    	width: 450px;
+    	margin: 0 auto;
+
+	}
+	.service-item{
+		padding-top: 40px;
+	}
+	.fontlight{
+		font-size: 18px;
+	}
+	.pad {
+   		padding-top: 50px;
+	}
+	.height{
+		height: 450px;
+	}
+	.imgrey {
+	    margin: 0 auto;
+	    padding-bottom: 10px;
+	    margin-top: 30px;
+	}
+	.box {
+    	width: 210px;
+	}
+	.comments{
+		float: left;
+		width: 80%;
+		margin-left: 100px;
+		height: 200px;
+	}
+	.cmnt, .cmnt2 {
+		font-size: 15px;
+	}
+	.ctext h4 {
+	font-size: 17px;
+    padding-top: 25px;
+
+	}
+	
+	.form-group input, .contact-form textarea  {
+		width: 500px;
+		float: none;
+	}
+	.form-group {
+		margin-bottom: 0;
+	}
+	.footer-menu a {
+	    font-size: 17px;
+	    margin: 0 15px;
+	}
+	footer {
+	    padding: 25px 0;
+	}
+
+
+}
+@media only screen and (max-width: 650px){
+	
+	.wrap{
+		width: 400px;
+	}
+	header>a>img{
+		max-width: 60%;
+	}
+	.menu li a{
+		font-size: 11px;
+    	padding: 0 2px;
+        line-height: 30px;
+	}
+	header {
+	    padding-top: 30px;
+	    margin-bottom: 90px;
+	}
+	h1 {
+	    font-size: 24px;
+		margin-bottom: 40px;
+		width:auto;
+	}
+	h2 {
+	    font-size: 18px;
+	    width: auto;
+	}
+	.bg-green {
+	   padding-bottom: 50px;
+	}
+	.btn {
+	    font-size: 18px;
+	    width: 200px;
+	    height: 50px;
+	    line-height: 50px;
+	}
+	.col-4x{
+		width: 90%;
+	}
+	.subtitle {
+	    font-size: 18px;
+	    line-height: 25px;
+	    width: auto;
+	}
+	h3 {
+   		font-size: 18px;
+	}
+	.fontlight {
+	    font-size: 15px;
+	}
+	.box p{
+		font-size: 15px;
+	}
+	.comments img{
+		max-width: 70%;
+	}
+	.comments{
+		margin-left: 10px;
+	}
+
+	.footer-menu a {
+	    font-size: 15px;
+	    margin: 0 10px;
+	}
+	
+	.menu2 a{
+		line-height: 35px;
+    	padding: 0 14px;
+		font-size: 15px;
+	}
+	.col-2x p{
+		font-size: 15px;
+	}
+	.bott, .service-item{
+	    padding-top: 20px;
+	}
+	.progress{
+		margin: 40px auto 8px auto;
+	}
+	.ctext {
+	    width: 350px;
+	}
+	.form-group input, .contact-form textarea  {
+		width: 400px;
+	}
+	.col-2x img{
+		max-width: 70%;
+	}
+	
+}
+@media only screen and (max-width: 400px){
+	.menu li a {
+	    font-size: 14px;
+	    padding: 0px 2px;
+	    line-height: 25px;
+	}
+	header>a>img{
+		max-width: 100%;
+		margin: 0 75px;
+	}.ctext {
+	    width: 250px;
+	    padding:0 0 0 80px;
+	}
+	.wrap{
+		width: 300px;
+	}
+	.subtitle {
+	    font-size: 18px;
+	    line-height: 25px;
+	    width: 200px;
+	}
+
+	.col-2x img{
+		padding-bottom: 30px;
+		max-width: 84%;
+	}
+	.comments img{
+		max-width: 20%;
+	}
+	.form-group input, .contact-form textarea  {
+		width: 300px;
+		float: none;
+	}
+
+}
